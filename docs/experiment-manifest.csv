@@ -1,0 +1,1 @@
+sample_id,participant_code,condition,spoken_language,model,model_revision,backend,dtype,browser_version,os,cpu,gpu,ram_gb,microphone,distance_cm,energy_threshold,noise_source,noise_volume_setting,partial_before_speech_ends,session_json_file,metrics_csv_file,reference_file,notes
